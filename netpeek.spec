@@ -54,12 +54,10 @@ install -d $RPM_BUILD_DIR%{_prefix}/{bin,doc}
 
 %{__make} install DESTDIR=$RPM_BUILD_ROOT
 
-gzip -9nf README LICENSE ChangeLog OTHER-LICENSES
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc README LICENSE ChangeLog OTHER-LICENSES
 %attr(755,root,root) %{_bindir}/netpeek
