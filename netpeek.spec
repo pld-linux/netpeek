@@ -1,7 +1,6 @@
 Summary:	NetPeek is a GUI-based network monitoring and diagnosis tool
-Summary(es):	NetPeek is a GUI-based network monitoring and diagnosis tool
 Summary(pl):	Graficzne narzêdzie do monitorowania i diagnostyki sieci
-Summary(pt_BR): NetPeek é uma ferramenta gráfica para monitoração e diagnóstico de redes
+Summary(pt_BR):	NetPeek é uma ferramenta gráfica para monitoração e diagnóstico de redes
 Name:		netpeek
 Version:	0.0.4
 Release:	1
@@ -24,14 +23,14 @@ in two forms:
      comments where necessary. The display is similar to that produced by
      the commercial EtherPeek program.
 
-%description -l es
-NetPeek is a GUI-based network monitoring and diagnosis tool. It
-captures packets from the local network and displays them to the user
-in two forms:
-   - A short one-line form, similar to that produced by "tcpdump".
-   - A long form, detailing all fields in a packet, with explainatory
-     comments where necessary. The display is similar to that produced by
-     the commercial EtherPeek program.
+%description -l pl
+NetPeek jest graficznym narzêdziem do monitorowania i diagnostyki
+sieci. Lapie pakiety z lokalnej sieci i pokazuje u¿ytkownikowi w dwóch
+postaciach:
+- krótkiej, jednoliniowej, podobnej do wyj¶cia z tcpdumpa
+- d³ugiej, szczegó³owo pokazuj±cej wszystkie pola w pakiecie z
+  komentarzami gdzie trzeba - podobnej do wyj¶cia z komercyjnego
+  programu EtherPeek.
 
 %description -l pt_BR
 O NetPeek é uma ferramenta gráfica para monitoração e diagnóstico de
