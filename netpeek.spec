@@ -10,8 +10,6 @@ Source0:	http://www.nyerk.com/netpeek/%{name}-%{version}.tar.gz
 Source0:	http://linuxberg.surfnet.nl/files/gnome/network/%{name}-%{version}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
-%define		_mandir		%{_prefix}/man
 
 %description
 NetPeek is a GUI-based network monitoring and diagnosis tool. It
