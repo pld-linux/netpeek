@@ -6,8 +6,6 @@ Version:	0.0.4
 Release:	1
 License:	BSD-style
 Group:		X11/Applications/Networking
-Group(de):	X11/Applikationen/Netzwerkwesen
-Group(pl):	X11/Aplikacje/Sieciowe
 Source0:	http://www.nyerk.com/netpeek/%{name}-%{version}.tar.gz
 Source0:	http://linuxberg.surfnet.nl/files/gnome/network/%{name}-%{version}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
