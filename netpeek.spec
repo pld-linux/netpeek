@@ -4,7 +4,7 @@ Summary(pt_BR):	NetPeek é uma ferramenta gráfica para monitoração e diagnóstico 
 Name:		netpeek
 Version:	0.0.4
 Release:	1
-License:	BSD-style
+License:	BSD-like
 Group:		X11/Applications/Networking
 Source0:	http://www.nyerk.com/netpeek/%{name}-%{version}.tar.gz
 Source0:	http://linuxberg.surfnet.nl/files/gnome/network/%{name}-%{version}.tar.gz
