@@ -7,6 +7,7 @@ Release:	1
 License:	BSD-like
 Group:		X11/Applications/Networking
 Source0:	http://www.nyerk.com/netpeek/%{name}-%{version}.tar.gz
+# Source0-md5:	e6990620201fe00a66dd4ea9522ff3c6
 Source0:	http://linuxberg.surfnet.nl/files/gnome/network/%{name}-%{version}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
