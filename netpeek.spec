@@ -40,7 +40,7 @@ mostrá-los para o usuário em duas maneiras diferentes:
   (quando necessário) de um comentário explicativo. Esta saída é similar
   a de um programa comercial chamado "EtherPeek".
 
-%prep 
+%prep
 %setup -q
 
 %build
