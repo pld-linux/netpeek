@@ -1,6 +1,6 @@
 Summary:	NetPeek is a GUI-based network monitoring and diagnosis tool
-Summary(pl):	Graficzne narzÍdzie do monitorowania i diagnostyki sieci
-Summary(pt_BR):	NetPeek È uma ferramenta gr·fica para monitoraÁ„o e diagnÛstico de redes
+Summary(pl.UTF-8):   Graficzne narzƒôdzie do monitorowania i diagnostyki sieci
+Summary(pt_BR.UTF-8):   NetPeek √© uma ferramenta gr√°fica para monitora√ß√£o e diagn√≥stico de redes
 Name:		netpeek
 Version:	0.0.4
 Release:	1
@@ -21,22 +21,22 @@ in two forms:
      comments where necessary. The display is similar to that produced by
      the commercial EtherPeek program.
 
-%description -l pl
-NetPeek jest graficznym narzÍdziem do monitorowania i diagnostyki
-sieci. Lapie pakiety z lokalnej sieci i pokazuje uøytkownikowi w dwÛch
+%description -l pl.UTF-8
+NetPeek jest graficznym narzƒôdziem do monitorowania i diagnostyki
+sieci. Lapie pakiety z lokalnej sieci i pokazuje u≈ºytkownikowi w dw√≥ch
 postaciach:
-- krÛtkiej, jednoliniowej, podobnej do wyj∂cia z tcpdumpa
-- d≥ugiej, szczegÛ≥owo pokazuj±cej wszystkie pola w pakiecie z
-  komentarzami gdzie trzeba - podobnej do wyj∂cia z komercyjnego
+- kr√≥tkiej, jednoliniowej, podobnej do wyj≈õcia z tcpdumpa
+- d≈Çugiej, szczeg√≥≈Çowo pokazujƒÖcej wszystkie pola w pakiecie z
+  komentarzami gdzie trzeba - podobnej do wyj≈õcia z komercyjnego
   programu EtherPeek.
 
-%description -l pt_BR
-O NetPeek È uma ferramenta gr·fica para monitoraÁ„o e diagnÛstico de
-redes. Com o NetPeek È possÌvel capturar pacotes de uma rede local e
-mostr·-los para o usu·rio em duas maneiras diferentes:
-- Forma reduzida, similar ‡quela do "tcpdump".
+%description -l pt_BR.UTF-8
+O NetPeek √© uma ferramenta gr√°fica para monitora√ß√£o e diagn√≥stico de
+redes. Com o NetPeek √© poss√≠vel capturar pacotes de uma rede local e
+mostr√°-los para o usu√°rio em duas maneiras diferentes:
+- Forma reduzida, similar √†quela do "tcpdump".
 - Forma longa, detalhando todos os campos do pacote, acompanhado
-  (quando necess·rio) de um coment·rio explicativo. Esta saÌda È similar
+  (quando necess√°rio) de um coment√°rio explicativo. Esta sa√≠da √© similar
   a de um programa comercial chamado "EtherPeek".
 
 %prep
